@@ -8,7 +8,7 @@
 
 package main
 
-import 	"fmt"
+import "fmt"
 import "strconv"
 import "time"
 import "strings"
